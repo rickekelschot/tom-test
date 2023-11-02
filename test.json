@@ -1,6 +1,5 @@
 [
     {
-      "nl": {
         "precheck": {
           "title": "Welkom bij Noodfonds Energie",
           "text": "Met deze app doe je de aanvraag voor het noodfonds. Maar voordat je begint willen we graag een snelle test doen of wij jou mogelijk kunnen helpen.",
@@ -9,5 +8,4 @@
           "skipButtonText": "Start de aanvraag"
         }
       }
-    }
   ]
